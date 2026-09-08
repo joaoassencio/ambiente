@@ -18,5 +18,9 @@
     "url": "https://github.com/joaoassencio/ambiente/issues"
   },
   "homepage": "https://github.com/joaoassencio/ambiente#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  }
 }
