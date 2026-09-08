@@ -1,0 +1,22 @@
+{
+  "name": "ambiente_estudos_front",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaoassencio/ambiente.git"
+  },
+  "keywords": [
+    "souFoda"
+  ],
+  "author": "50queijos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joaoassencio/ambiente/issues"
+  },
+  "homepage": "https://github.com/joaoassencio/ambiente#readme",
+  "description": ""
+}
